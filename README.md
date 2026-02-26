@@ -43,7 +43,8 @@ This project implements big number arithmetic **without using any external libra
 
 ### Compile
 ```bash
-gcc *.c operand1 operator operand2
+gcc *.c
+./a.out operand1 operator operand2
 ```
 ## 📂 Project Structure
 ```

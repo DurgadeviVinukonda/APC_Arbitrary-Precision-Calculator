@@ -44,6 +44,9 @@ This project implements big number arithmetic **without using any external libra
 ### Compile
 ```bash
 gcc *.c operand1 operator operand2
+```
+## 📂 Project Structure
+```
 Arbitrary_Precision_Calculator/
 ├── main.c          # Entry point of the program
 ├── add.c           # Addition operation logic
@@ -52,3 +55,4 @@ Arbitrary_Precision_Calculator/
 ├── div.c           # Division operation logic
 ├── apc.h           # Header file with structure and function declarations
 └── README.md       # Project documentation
+```

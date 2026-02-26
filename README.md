@@ -43,4 +43,4 @@ This project implements big number arithmetic **without using any external libra
 
 ### Compile
 ```bash
-gcc *.c -o apc
+gcc *.c operand1 operator operand2
